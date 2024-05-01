@@ -11,7 +11,7 @@ desktop view\
 ![](./Screenshots/desktop.png)
 
 # Demo
-    [FireShot](https://getfireshot.com/)
+[FireShot](https://wajidkhan2-frontendmentor-challenges.github.io/Results-summary-component-fm-html-css/)
 
 ### Built with
 - Mobile-first workflow
